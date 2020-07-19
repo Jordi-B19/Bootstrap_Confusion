@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "description": "This is a website for Ristorante Con Fusion",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "license": "ISC",
+  "main": "index.html",
+  "name": "confusion",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "version": "1.0.0"
+}
